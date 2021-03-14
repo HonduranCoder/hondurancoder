@@ -8,7 +8,7 @@ Talking about Personal Stuff:
 
 💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented.  <br>
 <br>
-💼 I’m currenly a freelance software engineer at 100Devs. <br>
+💼 I’m currently a freelance software engineer at 100Devs. <br>
 <br>
 🔭  I am working on my 100 Hours Project. <br>
 <br>
@@ -16,7 +16,7 @@ Talking about Personal Stuff:
 <br>
 📫 Please email via stef45689@gmail.com to reach me. <br>
 <br>
-📝 See my Resume to get more info https://estefanibaughman.netlify.app/ <br>
+📝 See my Portfolio to get more info https://estefanibaughman.netlify.app/ <br>
 <br>
 😄 Fun Fact: I am adopted from Honduras, and I am a United States Citizen <br>
 
