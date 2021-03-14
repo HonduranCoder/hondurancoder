@@ -2,7 +2,7 @@
 ### Welcome to my profile! <a href="https://www.linkedin.com/in/estefani-baughman-a313091ba/"><img align="center" alt="Estefani's LinkdIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-Hi there, I'm **Estefani Baughman**, a **Software Engineer** 🚀 from DFW.
+Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW.
 <!--
 **HonduranCoder/hondurancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
