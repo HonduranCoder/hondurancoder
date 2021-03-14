@@ -9,11 +9,11 @@ Talking about Personal Stuff:
 <br>
 💼 I’m currenly a freelance software engineer at 100Devs. <br>
 <br>
-🔭  I am working on my 100Hours Projects <br>
+🔭  I am working on my 100 Hours Project. <br>
 <br>
-💬 Ask me about anything, I am happy to help <br>
+💬 Ask me about anything, I am happy to help. <br>
 <br>
-📫 Please email via stef45689@gmail.com to reach me <br>
+📫 Please email via stef45689@gmail.com to reach me. <br>
 <br>
 📝 See my Resume to get more info https://estefanibaughman.netlify.app/ <br>
 <br>
