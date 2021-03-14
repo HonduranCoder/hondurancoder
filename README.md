@@ -1,6 +1,5 @@
 <img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/newLogo2.png" />
 <h3> Hi there 👋 </h3>
-<h3> Welcome to my profile! <a href="https://www.linkedin.com/in/estefani-baughman-a313091ba/"><img align="center" alt="Estefani's LinkdIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> </h3>
 
 
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW. <br>
@@ -23,6 +22,7 @@ Talking about Personal Stuff:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/HonduranCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hondurancoder" height="30" width="40" /></a>
+<h3> Welcome to my profile! <a href="https://www.linkedin.com/in/estefani-baughman-a313091ba/"><img align="center" alt="Estefani's LinkdIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> </h3>
 </p>
 
 **Languages:**
