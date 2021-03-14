@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my profile! <a href="https://www.linkedin.com/in/estefani-baughman-a313091ba/"><img align="center" alt="Estefani's LinkdIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="LAptop" src="https://images.unsplash.com/photo-1544731612-de7f96afe55f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />
 
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW.
 <!--
