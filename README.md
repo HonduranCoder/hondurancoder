@@ -3,20 +3,17 @@
 <img align="right" alt="LAptop" src="https://images.unsplash.com/photo-1544731612-de7f96afe55f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvbXB1dGVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
 
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW.
+Talking about Personal Stuff:
+
+👨🏽‍💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented
+💼 I’m currenly a freelance software engineer at 100Devs. 
+🔭  I am working on my 100Hours Projects
+💬 Ask me about anything, I am happy to help
+📫 Please email via stef45689@gmail.com to reach me
+📝 See my Resume to get more info https://estefanibaughman.netlify.app/
+😄 Fun Fact: I am adopted from Honduras, and I am a United States Citizen
 <!--
-**HonduranCoder/hondurancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**HonduranCoder/hondurancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 **Languages:**
 
