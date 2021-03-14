@@ -5,7 +5,7 @@
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW. <br>
 Talking about Personal Stuff:
 
-👨🏽‍💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented <br>
+💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented <br>
 <br>
 💼 I’m currenly a freelance software engineer at 100Devs. <br>
 <br>
