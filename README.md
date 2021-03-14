@@ -19,6 +19,12 @@ Talking about Personal Stuff:
 <br>
 😄 Fun Fact: I am adopted from Honduras, and I am a United States Citizen <br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/HonduranCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hondurancoder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/estefani-baughman-a313091ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolasluevano" height="30" width="40" /></a>
+</p>
+
 **Languages:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
