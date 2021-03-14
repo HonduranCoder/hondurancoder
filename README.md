@@ -3,6 +3,7 @@
 <img align="right" alt="LAptop" src="https://images.unsplash.com/photo-1544731612-de7f96afe55f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvbXB1dGVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
 
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW.
+<br>
 Talking about Personal Stuff:
 
 👨🏽‍💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented <br>
