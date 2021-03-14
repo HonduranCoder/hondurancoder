@@ -2,7 +2,7 @@
 <h3> Hi there 👋 </h3>
 <h3> Welcome to my profile! <a href="https://www.linkedin.com/in/estefani-baughman-a313091ba/"><img align="center" alt="Estefani's LinkdIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> </h3>
 
-<div style ="text-align: center;">
+<div style = "text-align: center;">
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW. <br>
 Talking about Personal Stuff:
 </div>
