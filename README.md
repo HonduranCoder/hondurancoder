@@ -5,15 +5,13 @@
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW.
 Talking about Personal Stuff:
 
-👨🏽‍💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented
-💼 I’m currenly a freelance software engineer at 100Devs. 
-🔭  I am working on my 100Hours Projects
-💬 Ask me about anything, I am happy to help
-📫 Please email via stef45689@gmail.com to reach me
-📝 See my Resume to get more info https://estefanibaughman.netlify.app/
-😄 Fun Fact: I am adopted from Honduras, and I am a United States Citizen
-<!--
-**HonduranCoder/hondurancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+👨🏽‍💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented <br>
+💼 I’m currenly a freelance software engineer at 100Devs. <br>
+🔭  I am working on my 100Hours Projects <br>
+💬 Ask me about anything, I am happy to help <br>
+📫 Please email via stef45689@gmail.com to reach me <br>
+📝 See my Resume to get more info https://estefanibaughman.netlify.app/ <br>
+😄 Fun Fact: I am adopted from Honduras, and I am a United States Citizen <br>
 
 **Languages:**
 
