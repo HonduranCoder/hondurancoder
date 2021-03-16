@@ -7,7 +7,7 @@ Talking about Personal Stuff:
 
 💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented.  <br>
 <br>
-💼 I’m currently a freelance software engineer at 100Devs. <br>
+💼 I’m currently a freelance Software Engineer at 100Devs. <br>
 <br>
 🔭  I am working on my 100 Hours Project. <br>
 <br>
