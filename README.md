@@ -9,7 +9,7 @@ Talking about Personal Stuff:
 <br>
 💼 I’m currently a freelance Software Engineer at 100Devs. <br>
 <br>
-🔭  I am working on my 100 Hours Project. <br>
+🔭  I am working on my Co.Lab Project. <br>
 <br>
 💬 Ask me about anything, I am happy to help. <br>
 <br>
