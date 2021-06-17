@@ -9,7 +9,7 @@ Talking about Personal Stuff:
 <br>
 💼 I’m currently a freelance Software Engineer at 100Devs. <br>
 <br>
-🔭 Here is my Co.Lab Project: https://www.youtube.com/watch?v=vq74FhZ8zFY <br>
+🔭 Here is my Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ and Presentation: https://www.youtube.com/watch?v=vq74FhZ8zFY <br>
 <br>
 💬 Ask me about anything, I am happy to help. <br>
 <br>
