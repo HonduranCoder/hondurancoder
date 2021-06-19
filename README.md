@@ -10,7 +10,7 @@ Talking about Personal Experience:
 💼 I’m currently a student at Alchemy Code Lab. <br>
 💼 I’m currently a freelance Software Engineer at 100Devs. <br>
 <br>
-🔭 Here is my Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br>
+🔭 Here is my Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br>
 <br>
 💬 Ask me about anything, I am happy to help. <br>
 <br>
