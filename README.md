@@ -3,7 +3,7 @@
 <h3> Welcome to my profile! </h3>
 
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW. <br>
-Talking about Personal Stuff:
+Talking about Personal Experience:
 
 💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented.  <br>
 <br>
