@@ -12,7 +12,7 @@ Talking about Personal Experience:
 <br>
 🔭 Here is my Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
 <br>
-💬 Ask me about anything, I am happy to help. <br>
+💬 Ask me about anything, I am here to help. <br>
 <br>
 📫 Please email via stef45689@gmail.com to reach me. <br>
 <br>
