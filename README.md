@@ -7,7 +7,7 @@ Talking about Personal Experience:
 
 💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented.  <br>
 <br>
-💼 I’m currently a student at Alchemy Code Lab. <br>
+💼 I’m currently a student at Alchemy Code Lab: https://www.alchemycodelab.com/ <br>
 💼 I’m currently a freelance Software Engineer at 100Devs. <br>
 <br>
 🔭 Here is my Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> 🔭 Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
