@@ -17,7 +17,7 @@ Talking about Personal Experience:
 <br>
 📫 Please email via stef45689@gmail.com to reach me. <br>
 <br>
-📝 See my Portfolio to get more info https://estefanibaughman.netlify.app/ <br>
+📝 Portfolio: https://estefanibaughman.netlify.app/ <br>
 <br>
 😄 Fun Fact: I am adopted from Honduras, and I am a United States Citizen <br>
 
