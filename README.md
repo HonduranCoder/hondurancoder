@@ -15,7 +15,7 @@ Talking about Personal Experience:
 <br>
 💬 Ask me about anything! <br>
 <br>
-📫 Please email via stef45689@gmail.com to reach me. <br>
+📫 Please Email via stef45689@gmail.com to reach me. <br>
 <br>
 📝 Portfolio: https://estefanibaughman.netlify.app/ <br>
 <br>
