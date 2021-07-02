@@ -18,7 +18,7 @@ Talking about Personal Experience:
 <br>
 📝 Portfolio: https://estefanibaughman.netlify.app/ <br>
 <br>
-😄 Fun Fact: I am adopted from Honduras, and I am a US Citizen <br>
+😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
