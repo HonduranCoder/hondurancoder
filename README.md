@@ -1,4 +1,4 @@
-<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/newLogo2.png" />
+<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/We%20live%20free.%20(7).png" />
 <h3> Hi there 👋 </h3>
 
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW. <br>
