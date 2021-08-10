@@ -4,7 +4,7 @@
 Hi there, I'm **Estefani Baughman**, a **Software Engineer** from DFW. <br>
 Talking about Personal Experience:
 
-💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented.  <br>
+💻 I’m looking to work with companies that focus on improving the environment. <br>
 <br>
 💼 I’m currently a student at Alchemy Code Lab: https://www.alchemycodelab.com/ <br>
 💼 I’m currently a freelance Software Engineer at 100Devs: https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time<br>
