@@ -2,7 +2,7 @@
 <h3> Hi there 👋 </h3>
 
 Hi there, I'm Estefani Baughman, a **Software Engineer** from DFW. <br>
-Talking about Personal Experience:
+Personal Experience:
 
 💻 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
