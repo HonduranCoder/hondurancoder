@@ -2,7 +2,7 @@
 <h3> Hi!! </h3>
 
 I'm Estefani Baughman, a **Software Engineer** <br>
-Personal Experience:
+Experience:
 
 💻 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
