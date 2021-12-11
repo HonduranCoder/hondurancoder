@@ -9,7 +9,7 @@ Experience:
 💼 I am currently a student at Alchemy Code Lab: https://www.alchemycodelab.com/ <br>
 💼 I am currently a freelance Software Engineer at 100Devs: https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time<br>
 <br>
-🔭 Here is my Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> 🔭 Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
+🔭 Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> 🔭 Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
 <br>
 <br>
 💬 Ask me anything! <br>
