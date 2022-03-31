@@ -2,8 +2,8 @@
 <h3> Hi! </h3>
 
 I'm Estefani Baughman a **Full-Stack JavaScript Software Engineer** <br>
+<br>
 Experience:
-
 💻 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
 💼 I am an Alchemy Code Lab Alum: https://www.alchemycodelab.com/ <br>
