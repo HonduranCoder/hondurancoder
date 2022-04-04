@@ -6,6 +6,7 @@ I'm Estefani Baughman a **Full-Stack JavaScript Software Engineer** <br>
 Experience:
 💻 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
+💼 I am a developer in Collab: https://the-collab-lab.codes/ <br>
 💼 I am an Alchemy Code Lab Alum: https://www.alchemycodelab.com/ <br>
 💼 I was a freelance Software Engineer at 100Devs: https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time<br>
 <br>
