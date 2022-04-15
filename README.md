@@ -16,7 +16,7 @@ Experience:
 💬 Ask me anything! <br>
 <br>
 📫 Please e-mail stef45689@gmail.com to reach me. <br>
-<br>📝 Portfolio: https://estefanibaughman.netlify.app/ 
+<br>📝 Portfolio: Work in Progress
 <br>📝 50 Projects 50 Days: https://hondurancoder.github.io/50LP/<br>
 <br>😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
