@@ -12,9 +12,6 @@ Experience:
 <br>
 🔭 Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> 🔭 Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
 <br>
-<br>
-💬 Ask me anything! <br>
-<br>
 📫 Please e-mail stef45689@gmail.com to reach me. <br>
 <br>📝 Portfolio: Work in Progress
 <br>📝 50 Projects 50 Days: https://hondurancoder.github.io/50LP/<br>
