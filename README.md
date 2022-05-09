@@ -3,7 +3,7 @@
 
 I'm Estefani Baughman a **Full-Stack JavaScript Software Engineer** <br>
 <br>
-Portfolio: https://eb-portfolio-site.netlify.app/
+📝 Portfolio: https://eb-portfolio-site.netlify.app/
 <br>
 Experience:
 💻 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
@@ -15,8 +15,6 @@ Experience:
 🔭 Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> 🔭 Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
 <br>
 📫 Please e-mail stef45689@gmail.com to reach me. <br>
-<br>📝 Portfolio: Work in Progress
-<br>📝 50 Projects 50 Days: https://hondurancoder.github.io/50LP/<br>
 <br>😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
 <h3 align="left">Connect with me:</h3>
