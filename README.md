@@ -3,7 +3,7 @@
 
 I'm Estefani Baughman a **Full-Stack JavaScript Software Engineer** <br>
 <br>
-Profile: https://eb-portfolio-site.netlify.app/
+Portfolio: https://eb-portfolio-site.netlify.app/
 <br>
 Experience:
 💻 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
