@@ -1,7 +1,7 @@
 <img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Beige%20Aesthetic%20Banner.png" />
 <h3> Hi! </h3>
 
-I'm Estefani Baughman a **Full-Stack JavaScript Software Engineer** <br>
+I'm Estefani Baughman aka Stef, a **Full-Stack JavaScript Software Engineer** <br>
 <br>
 📝 Portfolio: https://eb-portfolio-site.netlify.app/
 <br>
