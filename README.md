@@ -14,7 +14,7 @@ Experience:
 <br>
 🔭 Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> 🔭 Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
 <br>
-📫 Please e-mail stef45689@gmail.com to reach me. <br>
+📫 Please e-mail stef45689@gmail.com. <br>
 <br>😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
 <h3 align="left">Connect with me:</h3>
