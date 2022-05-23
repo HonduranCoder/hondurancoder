@@ -8,9 +8,9 @@ I'm Estefani Baughman aka Stef, a **Full-Stack JavaScript Software Engineer!** <
 Experience:
 💻 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
-💼 I am a developer in Collab: https://the-collab-lab.codes/ <br>
-💼 I am an Alchemy Code Lab Alum: https://www.alchemycodelab.com/ <br>
-💼 I was a freelance Software Engineer at 100Devs: https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time<br>
+💼 Collab Dev: https://the-collab-lab.codes/ <br>
+💼 Alchemy Code Lab Alum: https://www.alchemycodelab.com/ <br>
+💼 Software Engineer at 100Devs: https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time<br>
 <br>
 🔭 Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 🔭 Co.Lab Presentation with Demo: https://www.youtube.com/watch?v=vq74FhZ8zFY <br> 🔭 Co.Lab Product Packs: https://www.joincolab.io/projects-colab4
 <br>
