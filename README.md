@@ -10,8 +10,10 @@ Experience:
 <br>
 🖥 Collab Dev: https://the-collab-lab.codes/ <br>
 🖥 Collab Project: https://tcl-41-smart-shopping-list.web.app/ <br>
-🖥 Alchemy Code Lab Alum: https://www.alchemycodelab.com/ <br>
-🖥 Software Engineer at 100Devs: https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time<br>
+<br>
+🌟 Alchemy Code Lab Alum: https://www.alchemycodelab.com/ <br>
+<br>
+💻 Software Engineer at 100Devs: https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time<br>
 <br>
 👩🏽‍💻 Co.Lab Dev: https://www.joincolab.io/<br> 
 👩🏽‍💻 Co.Lab Project: https://hondurancoder.github.io/SlackAppPage/ <br> 
