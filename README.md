@@ -5,7 +5,7 @@ I'm Estefani Baughman aka Stef, a **Full-Stack JavaScript Software Engineer!** <
 <br>
 💼 Mobile-First Portfolio: https://eb-portfolio-site.netlify.app/
 <br>
-Experience: <br>
+Expectation: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
 🖥 Collab Dev: https://the-collab-lab.codes/ <br>
