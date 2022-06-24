@@ -1,7 +1,7 @@
 <img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Beige%20Aesthetic%20Banner.png" />
 <h3> Hi Fellow Devs! </h3>
 
-I'm Estefani Baughman aka Stef, a **Full-Stack JavaScript Software Engineer** who enjoys the front-end.<br>
+I'm Estefani Baughman aka Stef, a **Full-Stack JavaScript Software Engineer** who enjoys the front-end development.<br>
 <br>
 💼 Mobile-First Portfolio: https://eb-portfolio-site.netlify.app/
 <br>
