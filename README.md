@@ -29,7 +29,7 @@ Ambition: <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/HonduranCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hondurancoder" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/estefani-baughman-software-engineer/](https://www.linkedin.com/in/stef-baughman/)"><img align="center" alt="Estefani's LinkdIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
+<a href="https://www.linkedin.com/in/stef-baughman/"><img align="center" alt="Estefani's LinkdIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
 </p>
 
 **Languages:**
