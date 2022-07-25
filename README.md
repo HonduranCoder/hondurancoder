@@ -3,7 +3,7 @@
 
 I'm Estefani Baughman aka Stef, a **Full-Stack JavaScript Software Engineer** who enjoys the front-end development.<br>
 <br>
-💼 Mobile-First Portfolio: https://srb-portfolio-site.netlify.app/
+💼 Mobile-First: | [Portfolio] (https://srb-portfolio-site.netlify.app/)
 <br>
 Ambition: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
