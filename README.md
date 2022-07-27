@@ -8,7 +8,7 @@ I'm Estefani Baughman aka Stef, a **Full-Stack JavaScript Software Engineer** wh
 Ambition: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
-🖥 Collab Dev: https://the-collab-lab.codes/ <br>
+🖥 Collab [Dev](https://the-collab-lab.codes/) <br>
 🖥 Collab Project: https://tcl-41-smart-shopping-list.web.app/ <br>
 <br>
 🌟 Alchemy Code Lab Alum: https://www.alchemycodelab.com/ <br>
