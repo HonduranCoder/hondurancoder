@@ -18,7 +18,7 @@ Ambition: <br>
 👩🏽‍💻 Co.Lab [Project](https://hondurancoder.github.io/SlackAppPage/)<br> 
 👩🏽‍💻 Co.Lab Presentation with [Demo](https://www.youtube.com/watch?v=vq74FhZ8zFY)<br> 
 👩🏽‍💻 Co.Lab Product [Packs](https://www.joincolab.io/projects-colab4)<br>
-👩🏽‍💻 Co.Lab Blog: https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech
+👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
 <br>
 <br>
 📫 Please e-mail stef45689@gmail.com. 
