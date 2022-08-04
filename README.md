@@ -21,7 +21,7 @@ Ambition: <br>
 👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
 <br>
 <br>
-📫 Please e-mail stef45689@gmail.com. 
+📫 Please [e-mail](stef45689@gmail.com). 
 <br>
 📫 [Linkedin](https://www.linkedin.com/in/stef-baughman/)
 <br>😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
