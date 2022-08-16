@@ -9,7 +9,7 @@ Ambition: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
 🖥 Collab [Dev](https://the-collab-lab.codes/) <br>
-🖥 Collab [Project](https://tcl-41-smart-shopping-list.web.app/) <br>
+🖥 Collab [Project](https://smart-shopping-list-a86dc.web.app) <br>
 <br>
 🌟 Alchemy Code Lab [Alum](https://www.alchemycodelab.com/) <br>
 💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<br>
