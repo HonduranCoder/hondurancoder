@@ -1,4 +1,4 @@
-<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Feminine%20Pastel%20Gradient%20Name%20LinkedIn%20Banner%20(1).png" />
+<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Feminine%20Pastel%20Gradient%20Name%20LinkedIn%20Banner%20(1)%20copy%202.png" />
 <h3> Hi Everyone! </h3>
 
 I'm Stef Baughman, a **Full-Stack JavaScript Software Engineer** who enjoys the front-end development.<br>
