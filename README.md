@@ -5,7 +5,7 @@ I'm Stef Baughman, I am a **Full-Stack JavaScript Developer** with experience le
   
 <br>
 <br>
-💼 Mobile-First: [Portfolio](https://srb-portfolio-site.netlify.app/)
+💼(https://srb-portfolio-site.netlify.app/ "Mobile-First Portfolio")
 <br>
 Ambition: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
