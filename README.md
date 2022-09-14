@@ -5,27 +5,27 @@ I'm Stef Baughman, I am a **Full-Stack JavaScript Developer** with experience le
   
 <br>
 <br>
-💼[Portfolio](https://srb-portfolio-site.netlify.app/)
+💼[Portfolio] (https://srb-portfolio-site.netlify.app/)
 <br>
 Ambition: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
 <br>
-🖥 Collab [Dev](https://the-collab-lab.codes/) <br>
-🖥 Collab [Project](https://smart-shopping-list-a86dc.web.app) <br>
+🖥 Collab [Dev] (https://the-collab-lab.codes/) <br>
+🖥 Collab [Project] (https://smart-shopping-list-a86dc.web.app) <br>
 <br>
-🌟 Alchemy Code Lab [Alum](https://www.alchemycodelab.com/) <br>
-💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<br>
+🌟 Alchemy Code Lab [Alum] (https://www.alchemycodelab.com/) <br>
+💻 Software Engineer at [100Devs] (https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<br>
 <br>
-👩🏽‍💻 Co.Lab [Dev](https://www.joincolab.io/)<br> 
-👩🏽‍💻 Co.Lab [Project](https://hondurancoder.github.io/SlackAppPage/)<br> 
-👩🏽‍💻 Co.Lab Presentation with [Demo](https://www.youtube.com/watch?v=vq74FhZ8zFY)<br> 
-👩🏽‍💻 Co.Lab Product [Packs](https://www.joincolab.io/projects-colab4)<br>
-👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
+👩🏽‍💻 Co.Lab [Dev] (https://www.joincolab.io/)<br> 
+👩🏽‍💻 Co.Lab [Project] (https://hondurancoder.github.io/SlackAppPage/)<br> 
+👩🏽‍💻 Co.Lab Presentation with [Demo] (https://www.youtube.com/watch?v=vq74FhZ8zFY)<br> 
+👩🏽‍💻 Co.Lab Product [Packs] (https://www.joincolab.io/projects-colab4)<br>
+👩🏽‍💻 Co.Lab [Blog] (https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
 <br>
 <br>
-📫 Please [e-mail](stef45689@gmail.com). 
+📫 Please [e-mail] (stef45689@gmail.com). 
 <br>
-📫 [Linkedin](https://www.linkedin.com/in/stef-baughman/)
+📫 [Linkedin] (https://www.linkedin.com/in/stef-baughman/)
 <br>😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
 <h3 align="left">Connect with me:</h3>
