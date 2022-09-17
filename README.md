@@ -4,7 +4,6 @@
 I'm Stef Baughman, I am a **Full-Stack JavaScript Developer** with experience leading and working on diverse, international teams building end-to-end products. I enjoy Front-End work and making the User Experience intuitive by focusing on styling while meeting ADA accessibility requirements. I have experience in Front-End and Back-End Development, with React and SQL to manage scope, communicate effectively, and build products. As the Lead Software Engineer at Co.Lab, I worked with a talented team of a Product Manager, Designer, and another developer to build end-to-end solutions for our SlackBOT product development. My Co.Lab experience exposed me to the amazing diversity in tech and made me want to make a career change into software development through Alchemy Code Lab. Immediately after Alchemy, I was at The Collab Lab, where I worked with three other developers to build a Smart Shopping Application that tracks individuals' shopping trends. Through The Collab experience, I gained valuable knowledge using Agile Practices in asynchronous work. This further encouraged my determination to build a tech career. I love the team of creating something together.
   
 <br>
-This site was built using [GitHub Pages](https://pages.github.com/)
 <br>
 💼 [Portfolio](https://srb-portfolio-site.netlify.app/)
 <br>
