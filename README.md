@@ -1,5 +1,5 @@
 <img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Feminine%20Pastel%20Gradient%20Name%20LinkedIn%20Banner%20(1)%20copy%202.png" />
-<h3> Hi Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h3> 
+<h5> Hi Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h5> 
 <b>Ambition: </br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. </b>
 </br>
