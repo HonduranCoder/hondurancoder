@@ -25,9 +25,9 @@
 👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
 <br>
 <br>
-📫 Please [e-mail](stef45689@gmail.com). 
+📫 Please [e-mail](stef45689@gmail.com). </br>
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/)
-*😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
+😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
