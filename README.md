@@ -4,7 +4,7 @@
   
 <br>
 <br>
-💼 [![Portfolio](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://srb-portfolio-site.netlify.app/) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://srb-portfolio-site.netlify.app/) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br>
 Ambition: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
