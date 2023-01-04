@@ -1,23 +1,22 @@
 <img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Feminine%20Pastel%20Gradient%20Name%20LinkedIn%20Banner%20(1)%20copy%202.png" />
 <h4> Hi Everyone! </h4>
-  I'm Stef Baughman, I am a **Full-Stack JavaScript Developer** with experience leading and working on diverse, international teams building end-to-end products. I enjoy Front-End work and making the User Experience intuitive by focusing on styling while meeting ADA accessibility requirements. </br>  I have experience in Front-End and Back-End Development, with React and SQL to manage scope, communicate effectively, and build products. As the Lead Software Engineer at Co.Lab, I worked with a talented team of a Product Manager, Designer, and another developer to build end-to-end solutions for our SlackBOT product development. </br>  My Co.Lab experience exposed me to the amazing diversity in tech and made me want to make a career change into software development through Alchemy Code Lab. Immediately after Alchemy, I was at The Collab Lab, where I worked with three other developers to build a Smart Shopping Application that tracks individuals' shopping trends. Through The Collab experience, I gained valuable knowledge using Agile Practices in asynchronous work. This further encouraged my determination to build a tech career. I love the team of creating something together.
+ <p> I'm Stef Baughman, I am a **Full-Stack JavaScript Developer** with experience leading and working on diverse, international teams building end-to-end products. I enjoy Front-End work and making the User Experience intuitive by focusing on styling while meeting ADA accessibility requirements. </br>  I have experience in Front-End and Back-End Development, with React and SQL to manage scope, communicate effectively, and build products. As the Lead Software Engineer at Co.Lab, I worked with a talented team of a Product Manager, Designer, and another developer to build end-to-end solutions for our SlackBOT product development. </p> <p>  My Co.Lab experience exposed me to the amazing diversity in tech and made me want to make a career change into software development through Alchemy Code Lab. Immediately after Alchemy, I was at The Collab Lab, where I worked with three other developers to build a Smart Shopping Application that tracks individuals' shopping trends. Through The Collab experience, I gained valuable knowledge using Agile Practices in asynchronous work. This further encouraged my determination to build a tech career. I love the team of creating something together. </p>
   
-<br>
 ## → Links
 ![Portfolio](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://srb-portfolio-site.netlify.app/) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+Ambition: <b>
+🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. </b>
 <br>
-Ambition: <br>
-🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
-<br>
-🖥 Collab [![Dev](https://the-collab-lab.codes/) <br>
-🖥 Collab [Project](https://smart-shopping-list-a86dc.web.app) <br>
-<br>
-🌟 Alchemy Code Lab [Alum](https://www.alchemycodelab.com/) <br>
-💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<br>
-<br>
-👩🏽‍💻 Co.Lab [![Dev](https://www.joincolab.io/)]<br> 
-👩🏽‍💻 Co.Lab [Project](https://hondurancoder.github.io/SlackAppPage/)<br> 
-👩🏽‍💻 Co.Lab Presentation with [Demo](https://www.youtube.com/watch?v=vq74FhZ8zFY)<br> 
+🖥 Collab [![Dev](https://the-collab-lab.codes/) </br>
+🖥 Collab [Project](https://smart-shopping-list-a86dc.web.app) </br>
+</br>
+🌟 Alchemy Code Lab [Alum](https://www.alchemycodelab.com/) </br>
+💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<b>
+</br>
+👩🏽‍💻 Co.Lab [![Dev](https://www.joincolab.io/)]</br> 
+👩🏽‍💻 Co.Lab [Project](https://hondurancoder.github.io/SlackAppPage/)</br> 
+👩🏽‍💻 Co.Lab Presentation with [Demo](https://www.youtube.com/watch?v=vq74FhZ8zFY)</br> 
 👩🏽‍💻 Co.Lab Product [Packs](https://www.joincolab.io/projects-colab4)<br>
 👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
 <br>
