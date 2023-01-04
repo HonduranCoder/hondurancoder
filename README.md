@@ -24,7 +24,7 @@ Ambition: <br>
 <br>
 📫 Please [e-mail](stef45689@gmail.com). 
 <br>
-📫 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/)
 <br>😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
 <h3 align="left">Connect with me:</h3>
@@ -53,4 +53,4 @@ Ambition: <br>
 
 ![Estefani's github stats](https://github-readme-stats.vercel.app/api?username=hondurancoder&count_private=true&show_icons=true&theme=default)
 
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/summertime/)
+
