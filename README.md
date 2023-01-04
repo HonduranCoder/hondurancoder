@@ -4,7 +4,7 @@
   
 <br>
 <br>
-💼 |[Portfolio](https://srb-portfolio-site.netlify.app/)|
+💼 |[Portfolio](https://srb-portfolio-site.netlify.app/)| React 
 <br>
 Ambition: <br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. <br>
