@@ -12,7 +12,7 @@
 ## → Links
 [![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://srb-portfolio-site.netlify.app/)
 <br>
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/) </br>
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/) <br>
 🖥 Collab [Dev](https://the-collab-lab.codes/) </br>
 🖥 Collab [Project](https://smart-shopping-list-a86dc.web.app) </br>
 </br>
