@@ -25,7 +25,7 @@
 </br>
 </br>
 🌟 Alchemy Code Lab [Alum](https://www.alchemycodelab.com/) </br>
-💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<b>
+💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)</b>
 </br>
 </br>
 📫 Please [e-mail](stef45689@gmail.com). </br>
