@@ -23,6 +23,7 @@
 👩🏽‍💻 Co.Lab Product [Packs](https://www.joincolab.io/projects-colab4)</br>
 👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
 </br>
+</br>
 🌟 Alchemy Code Lab [Alum](https://www.alchemycodelab.com/) </br>
 💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<b>
 </br>
