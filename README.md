@@ -52,3 +52,5 @@ Ambition: <br>
 <br>
 
 ![Estefani's github stats](https://github-readme-stats.vercel.app/api?username=hondurancoder&count_private=true&show_icons=true&theme=default)
+
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/summertime/)
