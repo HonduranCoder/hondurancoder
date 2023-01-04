@@ -12,6 +12,7 @@
 ## → Links
 [![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://srb-portfolio-site.netlify.app/)
 <br>
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/) </br>
 🖥 Collab [Dev](https://the-collab-lab.codes/) </br>
 🖥 Collab [Project](https://smart-shopping-list-a86dc.web.app) </br>
 </br>
@@ -23,9 +24,7 @@
 👩🏽‍💻 Co.Lab Presentation with [Demo](https://www.youtube.com/watch?v=vq74FhZ8zFY)</br> 
 👩🏽‍💻 Co.Lab Product [Packs](https://www.joincolab.io/projects-colab4)<br>
 👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
-<br>
-<br>
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/) </br>
+</br>
 📫 Please [e-mail](stef45689@gmail.com). </br>
 😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸<br>
 
