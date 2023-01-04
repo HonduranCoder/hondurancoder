@@ -17,13 +17,11 @@
 🖥 Collab [Dev](https://the-collab-lab.codes/) </br>
 🖥 Collab [Project](https://smart-shopping-list-a86dc.web.app) </br>
 </br>
-</br>
 👩🏽‍💻 Co.Lab [Dev](https://www.joincolab.io/)</br> 
 👩🏽‍💻 Co.Lab [Project](https://hondurancoder.github.io/SlackAppPage/)</br> 
 👩🏽‍💻 Co.Lab Presentation with [Demo](https://www.youtube.com/watch?v=vq74FhZ8zFY)</br> 
 👩🏽‍💻 Co.Lab Product [Packs](https://www.joincolab.io/projects-colab4)</br>
 👩🏽‍💻 Co.Lab [Blog](https://www.joincolab.io/blog/being-upfront-about-your-abilities-when-you-pivot-to-tech)
-</br>
 </br>
 🌟 Alchemy Code Lab [Alum](https://www.alchemycodelab.com/) </br>
 💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)<b>
