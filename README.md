@@ -8,8 +8,7 @@
 
 <h4> 😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸 </h4> </br>
 
- 
- ## → My Favorite 
+## → My Favorite 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
 ## → Links
