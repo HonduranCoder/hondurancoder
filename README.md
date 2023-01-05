@@ -28,7 +28,7 @@
 💻 Software Engineer at [100Devs](https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time)</b>
 </br>
 </br>
-📫 Please [e-mail](stef45689@gmail.com). </br>
+📫 Please e-mail: stef45689@gmail.com </br>
 😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸</br>
 
 <h3 align="left">Connect with me:</h3>
