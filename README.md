@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
 ## → Links
-[![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)]https://stefb-portfolio.netlify.app/)
+[![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://stefb-portfolio.netlify.app/)
 <br>
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/stef-baughman/) </br>
 </br>
