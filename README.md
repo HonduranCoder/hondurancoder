@@ -1,4 +1,4 @@
-<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Feminine%20Pastel%20Gradient%20Name%20LinkedIn%20Banner%20(1)%20copy%202.png" />
+<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Pastel%20Pink%20Simple%20Designer%20LinkedIn%20Banner%20(2).png" />
 <h4> Hi Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> </h4> 
 <b>Ambition: </br>
 🌎 I’m looking to work with companies that focus on improving the environment and socioeconomic disparity. </b>
