@@ -1,4 +1,4 @@
-<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Pastel%20Rainbow%20Block%20LinkedIn%20Banner%20(4).png" />
+<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/HonduranCoder/Portfolio-/blob/main/images/Black%20Vintage%20Retro%20Aesthetic%20LinkedIn%20Banner%20(5).png" />
 <h4> Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> </h4> 
 <b>Ambition: </br>
 🌎 I’m looking to work with companies that focus on improving the environment & socioeconomic disparity. </b>
