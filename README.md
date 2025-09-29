@@ -6,8 +6,6 @@
 </br>
  <p> I'm Stef Baughman, I am a <b>Full-Stack JavaScript Developer</b> with experience leading and working on diverse, international teams building end-to-end products. I have experience in Front-End and Back-End Development, with React and SQL to manage scope, communicate effectively, and build products. <p/> <p> As the Lead Software Engineer at Co.Lab, I worked with a talented team of a Product Manager, Designer, and another developer to build end-to-end solutions for our SlackBOT product development. My Co.Lab experience exposed me to the amazing diversity in tech and made me want to make a career change into software development through Alchemy Code Lab. </p> <p>  Following Alchemy, I was at The Collab Lab, where I worked with three other developers to build a Smart Shopping Application that tracks individuals' shopping trends. Through The Collab experience, I gained valuable knowledge using Agile Practices in asynchronous work. This further encouraged my determination to build a tech career. I love the team of creating something together. </p> <p> Currently, I am working on the HubSpot CRM. </p>
 
-<h4> 😄 Fun Fact: I am adopted from Honduras 🇭🇳 and I am a US Citizen 🇺🇸 </h4> 
-
 ## → My Favorite 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
